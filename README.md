@@ -1,0 +1,4 @@
+- Zionn Showers
+- 10-30-2026
+- Challenge: Remember Me
+- Our goal was to finish the code to make sure it remembers our last inputs, like what our favorites were and what we last searched. We also had to make a function to remove all saved data so that it doesn't remember on restart.
