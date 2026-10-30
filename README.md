@@ -2,3 +2,6 @@
 - 10-30-2026
 - Challenge: Remember Me
 - Our goal was to finish the code to make sure it remembers our last inputs, like what our favorites were and what we last searched. We also had to make a function to remove all saved data so that it doesn't remember on restart.
+- Reviewer: Callen Thomason
+- Review: The light and dark mode, the favorite counter, and search all work and save to the local storage. The forget me clears the local storage, but does not refresh the page on click. The text box should clear, the searches should go back, the counter should reset, and the mode should go dark again. Pretty much reloading the page. The favorites button works, but I would have like to see you at least attempt to get the filter favorites to work. You had the time for it. 
+- You didn't complete the task under their respective sections so its hard to find what you programmed. Probably should go through and reorganize that. Forget me is where it should be. Your just missing the part that reloads the page on click. 
