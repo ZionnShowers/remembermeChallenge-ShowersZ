@@ -379,6 +379,7 @@ forgetBtn.addEventListener("click", function () {
   localStorage.removeItem("binge-search");
   localStorage.removeItem("binge-theme");
   localStorage.removeItem("binge-favorites");
+  location.reload();
 });
 
 
